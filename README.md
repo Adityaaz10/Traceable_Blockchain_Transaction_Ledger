@@ -1,4 +1,2 @@
-# KBS_TASK2
-KBS sophomore selection Task 2 code and simulation images .
-
+# Traceable Blockchain Transaction Ledger
 The contract gives authorities a complete and unchangeable record of every peer-to-peer transaction, including the sender, receiver, amount, timestamp, and unique transaction ID for each one. The contract lets investigators piece together the whole flow of stolen money by systematically logging each transfer, even those that create loops or send money back to previous addresses. Its "traceFlow" feature makes it easy to follow ETH through all of its intermediary wallets, find every downstream recipient, and stop double-counting when loops are present. This lets authorities see the clear path of illegal assets, find suspicious cycles, and identify both the original source and the final beneficiaries, even in money-laundering schemes that are meant to be confusing and involve complicated, looping transactions.
